@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Josefin+Sans&color=A997DF&lines=Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
 <!--
 **TheoKoess/TheoKoess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&lines=Welcome+to+my+GitHub!)](https://git.io/typing-svg)
