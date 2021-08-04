@@ -1,4 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Josefin+Sans&color=A997DF&lines=Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Josefin+Sans&color=A997DF&lines=Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+
+I'm a 18-year-old developer from France.
+
+
 
 <!--
 **TheoKoess/TheoKoess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
