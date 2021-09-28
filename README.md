@@ -5,7 +5,9 @@ In my spare time, I like to learn something new about Python.
 
 🤖 I am currently working on a bot discord
 
+
 <details>
   <summary>More...</summary>
+  
   Updated : 28/09/2021
 </details>
